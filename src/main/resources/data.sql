@@ -1,0 +1,1 @@
+insert into book values (101, '5 am club', 'Robin Sharma');
